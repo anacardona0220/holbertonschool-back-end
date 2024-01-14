@@ -1,5 +1,5 @@
 
-## holbertonschool-back-end
+## Holbertonschool-back-end
 
 ## Contents
 
